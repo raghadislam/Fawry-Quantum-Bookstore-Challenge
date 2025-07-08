@@ -145,5 +145,10 @@ java -cp bin Main
 ```
 Or run via your IDE (IntelliJ, Eclipse).
 
+## 📊 Screenshots from the running app
+
+![Output1](output_screenshot1.png)
+![Output2](output_screenshot2.png)
+
 
 
