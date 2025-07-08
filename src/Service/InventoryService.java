@@ -38,7 +38,7 @@ public class InventoryService {
         List<PurchaseCommand> commands = List.of(
                 new ValidateAvailabilityCommand(),
                 new ReduceStockCommand(),
-                new DeliverCommand(),
+                new DeliveryCommand(),
                 new PrintReceiptCommand()
         );
 
