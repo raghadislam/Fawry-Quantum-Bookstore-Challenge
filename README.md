@@ -145,11 +145,13 @@ java -cp bin Main
 ```
 Or run via your IDE (IntelliJ, Eclipse).
 
+## Demo
+![Demo](demo1.gif)
+
+
 ## Screenshot from the running app
 ![Output2](output_screenshot2.png)
 
-## Demo
-![Demo](demo1.gif)
 
 
 
